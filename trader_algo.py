@@ -1,9 +1,9 @@
 from binance.client import Client
 from binance.websockets import BinanceSocketManager
 import os
-from keys_API import key, secret
+# from keys_API import key, secret
 import pandas as pd
-import numpy as np
+# import numpy as np
 import talib
 from datetime import datetime
 import asyncio
@@ -11,7 +11,7 @@ import websockets
 import datetime
 import json
 import csv
-import multiprocessing
+# import multiprocessing
 import concurrent.futures
 
 
