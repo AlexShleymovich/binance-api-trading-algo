@@ -1,1 +1,1 @@
-worker: python3 trader_algo.py
+worker: python trader_algo.py
